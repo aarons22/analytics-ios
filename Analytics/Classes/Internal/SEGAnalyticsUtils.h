@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import <AstronomerAnalytics/SEGSerializableValue.h>
+#import <Analytics/SEGSerializableValue.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
